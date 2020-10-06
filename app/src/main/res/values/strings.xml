@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">My Notes</string>
+
+    <!-- Input Field Names -->
+    <string name="title_field">Title</string>
+
+    <!-- Popup Menu Options -->
+    <string name="menu_option_delete">Delete</string>
+
+    <!-- Content Description -->
+    <string name="splash_logo">Splash Logo</string>
+
+    <string name="notes_option">Notes Options</string>
+
+</resources>
